@@ -1,0 +1,8 @@
+prefix=/home/ritvik/Desktop/ROS/ROS-Assignments-QSTP/catkin_ws_assignments/install
+
+Name: sumit_xl_tools
+Description: Description of sumit_xl_tools
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy
